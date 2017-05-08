@@ -113,7 +113,7 @@ public class BbcNewsBlogPage {
 
 
     public void setUp() {
-//       Chromedriver executable available on your path - 
+//       Chromedriver executable available on your path -
         System.setProperty("webdriver.chrome.driver", "/Users/mahmed/chromeDriver/chromedriver");
         ChromeOptions browserOptions = new ChromeOptions();
         browserOptions.addArguments(CHROME_MAXIMISED);
