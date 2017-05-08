@@ -1,0 +1,4 @@
+com/bbc/news/ui/pageObjects/BbcNewsBlogPage.class
+com/bbc/news/ui/featureRunners/CommentsOnNewsArticlesFeatureRunner.class
+com/bbc/news/ui/stepDefinitions/CommentStepDef.class
+com/bbc/news/ui/featureRunners/SubmitEmptyCommentFeatureRunner.class
