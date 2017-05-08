@@ -3,6 +3,12 @@ This is completed excercise project using cucumber-jvm and selenium-webdriver to
 
 you'll need Chrome (or Chromium) installed, and you'll also need the Chromedriver executable available on your path. You can get Chromedriver from here https://sites.google.com/a/chromium.org/chromedriver/downloads
 
+Note:
+- Requires are
+- JDK 1.8 
+- Test can be run with IDE using feature Runners 
+- to run test with Maven use maven commands 
+
 -------------------------------------------------------
  T E S T S
 -------------------------------------------------------
